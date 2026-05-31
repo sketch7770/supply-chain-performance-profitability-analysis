@@ -96,3 +96,6 @@ Dashboard Preview:
 
 Project Outcome:
 The dashboard provides a comprehensive view of supply chain performance by combining operational, financial, customer, and product analytics into a single interactive report. The analysis helps identify delivery risks, high-performing regions, profitable product categories, and customer behavior patterns, enabling more informed business decision-making.
+
+
+Due to dataset size limitations, the original dataset is not included in this repository. A sample Dataset of 1000 rows is uploaded .
