@@ -90,7 +90,8 @@ Business Insights Generation
 
 Dashboard Preview:
 
-<img width="1330" height="734" alt="image" src="https://github.com/user-attachments/assets/79efe51a-ecd3-4a58-8299-cb8118f35b86" />
+<img width="1335" height="735" alt="image" src="https://github.com/user-attachments/assets/6a91e3f4-83e5-4e15-b680-eb444a2646c8" />
+
 
 
 Project Outcome:
